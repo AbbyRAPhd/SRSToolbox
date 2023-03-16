@@ -1,9 +1,13 @@
 ---
-title: "My Website"
+title: "Early Career Suicide Researcher Survey"
 ---
 
-Hello, Website!
+### Are you a student or early career researcher (ECR)?
 
-For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
+### We need you!
 
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+We are conducting a study to better understand the needs of students and ECRs who are interested in conducting suicide-related research or gathering suicide-related data.
+
+**You can help us by completing a brief (10-15 minutes) survey**:
+
+### **Click here to participate!**

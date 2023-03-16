@@ -1,4 +1,4 @@
-name: "my-website"
+name: "Suicide Researchers Survey"
 output_dir: docs
 navbar:
   title: "My Website"
@@ -7,3 +7,12 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Contact us"
+      href: mailing-list.html
+    - text: "Resources"
+      href: resources.html
+
+    
+output:
+  html_document:
+    theme: yeti
