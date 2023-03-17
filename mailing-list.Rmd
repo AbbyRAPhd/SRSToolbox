@@ -2,6 +2,6 @@
 title: "Join us"
 ---
 
-If you would like to contribute to the development of the Suicide Researchers' Toolbox, or just be updated on its progress, please sign up for our mailing list:
+<br> <br> If you would like to contribute to the development of the Suicide Researchers' Toolbox, or just be updated on its progress, please sign up for our mailing list: <br>
 
 ## ![](images/envelope-01.svg){style="color: black" width="24"} [Sign me up!](https://forms.gle/JVhqzEZzDMqR1C3c9) ![](images/envelope-02.svg){style="color: black" width="24"}
